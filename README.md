@@ -11,6 +11,7 @@
 - 🎨 Giao diện thân thiện, thuần **Tkinter + Pillow**
 
 ## 🧩 Cấu trúc thư mục
+```
 Digit_Recognition_SVM_HOG/
 ├── models/
 │ └── svm_hog.pkl
@@ -18,6 +19,7 @@ Digit_Recognition_SVM_HOG/
 ├── train_svm_hog.py
 ├── requirements.txt
 └── README.md
+```
 
 ## 🧰 Cách chạy
 ```bash
@@ -25,7 +27,7 @@ pip install -r requirements.txt
 python train_svm_hog.py    # Huấn luyện model
 python app.py              # Chạy giao diện
 📸 Kết quả minh họa
-
+```
 👩‍💻 Tác giả
 
 Trần Thị Như Quỳnh – 2374802010428
