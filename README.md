@@ -31,4 +31,4 @@ python app.py              # Chạy giao diện
 👩‍💻 Tác giả
 
 Trần Thị Như Quỳnh – 2374802010428
-Khoa Công Nghệ Thông Tin, Trường Đại học Văn Lang – 2025
+Khoa Công Nghệ Thông Tin, Trường Đại học Văn Lang
